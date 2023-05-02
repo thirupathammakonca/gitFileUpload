@@ -1,0 +1,2 @@
+fileUpload.txt
+We are reading this file content from SPring Application.
